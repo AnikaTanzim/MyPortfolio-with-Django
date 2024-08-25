@@ -4,16 +4,24 @@ This is a personal portfolio website built using Django, showcasing my skills, p
 
 # Features
 Dynamic project display with images and descriptions
+
 Responsive design for optimal viewing on all devices
+
 Easy navigation to access different sections of the portfolio
+
 Contact form for inquiries
 
 # Technologies Used
 Python
+
 Django
+
 HTML/CSS
+
 JavaScript
+
 Bootstrap
+
 
 Feel free to explore the project and provide feedback!
 
